@@ -33,3 +33,5 @@ Various Git Commands to get used to
   git reset <file>: Unstages the specified file, but keeps the changes in the working directory.
   git reset --hard: Resets the staging area and working directory to the state of the last commit.
   git rm <file>: Removes the specified file from both the working directory and the staging area.
+
+  Added Dilshad as a Collaborator through git invitation
